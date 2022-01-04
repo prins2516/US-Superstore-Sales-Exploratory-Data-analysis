@@ -1,4 +1,4 @@
-# US Superstore Salses Exploratory Data-analysis
+# US Superstore Sales Exploratory Data-analysis
 
 ### Introduction
 
